@@ -66,7 +66,7 @@
             <dv:owner>Handschriftenarchiv Dresdner Kreuzchor</dv:owner>
             <dv:ownerLogo>https://hsa-digihub.netlify.app/logo.png</dv:ownerLogo>
             <dv:ownerSiteURL>http://archiv.handschriften.bplaced.de/</dv:ownerSiteURL>
-            <dv:ownerContact>handschriftenarchiv@protonmail.com</dv:ownerContact>
+            <dv:ownerContact>http://archiv.handschriften.bplaced.de/kontakt</dv:ownerContact>
             <dv:license>pdm</dv:license>
           </dv:rights>
         </mets:xmlData>
